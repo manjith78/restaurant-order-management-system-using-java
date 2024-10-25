@@ -1,4 +1,4 @@
-Overview
+Overview:
 The application is a graphical user interface (GUI) that allows both managers and customers to interact with a restaurant order management system. It connects to a PostgreSQL database to handle menu items and orders.
 
 Code Structure
